@@ -7,3 +7,13 @@ this is some random text
 // git commit -m "messages"
 
 // git push
+
+// git clone git_url
+
+// git checkout main
+
+// git branch -d branch_name
+
+// git checkout -b branch-name
+
+// git checkout branch-name
