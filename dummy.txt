@@ -7,3 +7,7 @@ this is some random text
 // git commit -m "messages"
 
 // git push
+
+// git checkout -b branch-name :- to create a branch
+
+// git checkout branch-name :- to switch between branches
